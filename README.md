@@ -33,6 +33,9 @@ Interested in building practical software solutions, exploring intelligent syste
 ### [ZnO-MOV Failure Prediction](https://github.com/HraklisTs/ZnO-MOV-Failure-Prediction)
 Machine Learning demonstration for ZnO surge arrester failure prediction using synthetic data.
 
+### [TinyOS v3 — Operating Systems Coursework](https://github.com/HraklisTs/TinyOS-Operating-Systems-Project)
+Semester-long Operating Systems project in C, involving kernel-level functionality for processes, threads, scheduling, pipes, and sockets using the TinyOS v3 educational framework.
+
 ### [Theory of Computation](https://github.com/HraklisTs/Theory-of-Computation)
 Academic project in C involving Flex and Bison, focused on building a source-to-source compiler.
 
